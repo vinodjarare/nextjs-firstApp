@@ -1,0 +1,18 @@
+header {
+  box-sizing: border-box;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+header nav {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+
+nav a {
+  text-decoration: none;
+}
