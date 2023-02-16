@@ -1,0 +1,23 @@
+header {
+  box-sizing: border-box;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+header nav {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+
+nav a {
+  text-decoration: none;
+}
