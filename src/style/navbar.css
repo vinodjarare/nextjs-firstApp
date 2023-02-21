@@ -6,8 +6,8 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 0 1rem;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
   position: fixed;
   top: 0;
   left: 0;
